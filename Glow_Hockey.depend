@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1419142861 source:/home/prome/Documents/cpp/computer_graphics/Glow_Hockey/main.cpp
+	<GL/glut.h>
+	<cstdio>
+	<iostream>
+	<cmath>
+

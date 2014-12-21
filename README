@@ -1,0 +1,10 @@
+Implementation of Glow Hockey 2 Player game.
+
+Pressing '1' starts a match. After each match, one player is
+winner and gets +1 score.
+
+Player gets score 5, wins the game.
+
+Md. Nabid Imteaj
+nabid.imteaj@live.com
+December 21, 2014
